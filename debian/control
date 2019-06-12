@@ -1,0 +1,30 @@
+Source: syslinux-themes-lliurex
+Section: misc
+Priority: optional
+Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
+
+Package: syslinux-themes-lliurex
+Architecture: amd64 i386
+Depends: ${misc:Depends}, syslinux-themes-lliurex-xenial
+Description: collection of boot loaders (theme metapackage)
+ SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
+ btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
+ or from CD-ROMs.
+ .
+ This package depends on the package with the graphical bootloader theme
+ for the matching Ubuntu release.
+
+Package: syslinux-themes-lliurex-xenial
+Architecture: amd64 i386
+Depends: ${misc:Depends}, memtest86+, syslinux-common, gfxboot-theme-ubuntu
+Enhances: extlinux
+Provides: syslinux-theme, syslinux-themes-ubuntu, syslinux-themes-ubuntu-xenial
+Description: collection of boot loaders (lliurex-xenial theme)
+ SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
+ btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
+ or from CD-ROMs.
+ .
+ This package contains the graphical bootloader theme for Ubuntu oneiric.
+

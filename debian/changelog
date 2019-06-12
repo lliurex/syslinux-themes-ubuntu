@@ -1,0 +1,11 @@
+syslinux-themes-lliurex (1.0-1) xenial; urgency=medium
+
+  * Fix memtest path & binary name 
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Thu, 15 Sep 2016 10:42:05 +0200
+
+syslinux-themes-lliurex (1.0) xenial; urgency=medium
+
+  * New syslinux themes for lliurex 16
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Wed, 14 Sep 2016 13:46:19 +0200
