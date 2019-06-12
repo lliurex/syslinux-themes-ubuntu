@@ -1,3 +1,9 @@
+syslinux-themes-lliurex (1.1) bionic; urgency=medium
+
+  * Initial release for LliureX 19
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 12 Jun 2019 17:38:35 +0200
+
 syslinux-themes-lliurex (1.0-1) xenial; urgency=medium
 
   * Fix memtest path & binary name 
