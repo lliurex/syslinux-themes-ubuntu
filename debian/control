@@ -16,7 +16,7 @@ Description: collection of boot loaders (theme metapackage)
  This package depends on the package with the graphical bootloader theme
  for the matching Ubuntu release.
 
-Package: syslinux-themes-lliurex-xenial
+Package: syslinux-themes-lliurex-bionic
 Architecture: amd64 i386
 Depends: ${misc:Depends}, memtest86+, syslinux-common, gfxboot-theme-ubuntu
 Enhances: extlinux
