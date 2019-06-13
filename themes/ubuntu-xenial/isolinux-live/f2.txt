@@ -1,17 +1,17 @@
-0fPREREQUISITES FOR INSTALLING UBUNTU07                                           09F207
+0fPREREQUISITES FOR INSTALLING LliureX07                                           09F207
 
-You must have at least 44 megabytes of RAM to use this Ubuntu installer.
+You must have at least 44 megabytes of RAM to use this LliureX installer.
 
 You should have space on your hard disk to create a new disk partition
-of at least 5 gigabytes to install a standard Ubuntu desktop system or
+of at least 5 gigabytes to install a standard LliureX desktop system or
 at least 500 megabytes for a minimal server installation. You'll need
 more disk space to install additional packages, depending on what you
-wish to do with your new Ubuntu system.
+wish to do with your new LliureX system.
 
 See the Installation Guide or the FAQ for more information; both
-documents are available at the Ubuntu web site, 0fhttp://www.ubuntu.com/07
+documents are available at the LliureX web site, 0fhttp://www.lliurex.net/07
 
-Thank you for choosing Ubuntu!
+Thank you for choosing LliureX!
 
 
 
