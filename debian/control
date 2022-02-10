@@ -1,7 +1,7 @@
 Source: syslinux-themes-lliurex
 Section: misc
 Priority: optional
-Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
+Maintainer: LliureX Team <lliurex@gva.es> 
 Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.2
 

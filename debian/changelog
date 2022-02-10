@@ -1,3 +1,9 @@
+syslinux-themes-lliurex (1.5) focal; urgency=medium
+
+  * Migrate to focal
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 10 Feb 2022 12:21:26 +0100
+
 syslinux-themes-lliurex (1.4) bionic; urgency=medium
 
   * Updated images
