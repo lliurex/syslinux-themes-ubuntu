@@ -28,3 +28,15 @@ Description: collection of boot loaders (lliurex-xenial theme)
  .
  This package contains the graphical bootloader theme for Ubuntu oneiric.
 
+Package: syslinux-themes-lliurex-focal
+Architecture: amd64 i386
+Depends: ${misc:Depends}, memtest86+, syslinux-common, gfxboot-theme-ubuntu
+Enhances: extlinux
+Provides: syslinux-theme, syslinux-themes-ubuntu, syslinux-themes-ubuntu-xenial
+Description: collection of boot loaders (lliurex-xenial theme)
+ SYSLINUX is a collection of boot loaders which operates off Linux ext2/3/4 or
+ btrfs filesystems, MS-DOS FAT filesystems, network servers using PXE firmware,
+ or from CD-ROMs.
+ .
+ This package contains the graphical bootloader theme for Ubuntu oneiric.
+
